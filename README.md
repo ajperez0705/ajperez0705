@@ -6,7 +6,7 @@ new medium.
 - 🔭 I’m currently working on ... finding my first job in the industry!
 - 🌱 I’m currently learning ... Web3 integration with the frontend, and dabbling in NodeJS
 - 👯 I’m looking to collaborate on ... Web3 Frontend projects
-- 📫 How to reach me: ... ajperez0705@gmail.com | https://andrewperez-dev.netlify.app/
+- 📫 How to reach me: ... ajperez0705@gmail.com | https://ajperez.dev
 - ⚡ When I'm not on the computer: ... you can find me with a soccer ball
 
 <!--
